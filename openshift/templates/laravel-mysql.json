@@ -299,7 +299,7 @@
           "from": {
             "kind": "ImageStreamTag",
             "namespace": "${NAMESPACE}",
-            "name": "mysql:5.7"
+            "name": "mariadb:10.4"
           }
         }
       }, {
